@@ -1,3 +1,4 @@
+package en_clase;
 public class StringCharacteres {
     public static void main(String[] args) {
         String text = "Este autobús va muy lento, si no acelera llegaré muy tarde a clases y" 
